@@ -1,7 +1,5 @@
 ## Encabezado ejercicio1
-
 ![imagen solicitada](https://example.com/ruta_de_la_imagen.jpg)
-
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
