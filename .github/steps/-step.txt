@@ -1,1 +1,3 @@
 ## Encabezado ejercicio1
+
+![imagen solicitada](https://example.com/ruta_de_la_imagen.jpg)
